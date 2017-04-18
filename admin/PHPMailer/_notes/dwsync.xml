@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".travis.yml" server="ets-demo.com" local="131030336549594947" remote="131237266800000000" Dst="0" />
+<file name=".gitignore" server="ets-demo.com" local="131030336549184693" remote="131237266800000000" Dst="0" />
+<file name=".scrutinizer.yml" server="ets-demo.com" local="131030336549414827" remote="131237266800000000" Dst="0" />
+<file name="changelog.md" server="ets-demo.com" local="131030336549845118" remote="131237266800000000" Dst="0" />
+<file name="class.phpmaileroauth.php" server="ets-demo.com" local="131030336551327807" remote="131237266800000000" Dst="0" />
+<file name="class.phpmailer.php" server="ets-demo.com" local="131030336550857493" remote="131237266800000000" Dst="0" />
+<file name="class.pop3.php" server="ets-demo.com" local="131030336552108336" remote="131237266800000000" Dst="0" />
+<file name="class.phpmaileroauthgoogle.php" server="ets-demo.com" local="131030336551668058" remote="131237266800000000" Dst="0" />
+<file name="class.smtp.php" server="ets-demo.com" local="131030336552748755" remote="131237266800000000" Dst="0" />
+<file name="composer.json" server="ets-demo.com" local="131030336552888848" remote="131237266800000000" Dst="0" />
+<file name="composer.lock" server="ets-demo.com" local="131030336553058970" remote="131237266800000000" Dst="0" />
+<file name="get_oauth_token.php" server="ets-demo.com" local="131030336553369169" remote="131237267400000000" Dst="0" />
+<file name="LICENSE" server="ets-demo.com" local="131030336553539286" remote="131237267400000000" Dst="0" />
+<file name="PHPMailerAutoload.php" server="ets-demo.com" local="131030336553779442" remote="131237267400000000" Dst="0" />
+<file name="README.md" server="ets-demo.com" local="131030336553969573" remote="131237267400000000" Dst="0" />
+<file name="VERSION" server="ets-demo.com" local="131030336554219744" remote="131237267400000000" Dst="0" />
+<file name="travis.phpunit.xml.dist" server="ets-demo.com" local="131030336554109671" remote="131237267400000000" Dst="0" />
+</dwsync>
