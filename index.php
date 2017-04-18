@@ -7,7 +7,7 @@
 <div class="services">
 		<div class="container">
 			<div class="agileits_heading_section">
-				<h3 class="wthree_head">Welcome to Carpenter Services Nitish</h3>
+				<h3 class="wthree_head">Welcome to Carpenter Services</h3>
 				<p class="agileits_w3layouts_para w3_agile_para">Etiam malesuada odio vitae enim malesuada accumsan diam sed.</p>
 			</div>
 			<div class="w3layouts_skills_grids w3layouts_featured_services_grids">
